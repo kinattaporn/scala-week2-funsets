@@ -27,8 +27,8 @@ trait FunSets extends FunSetsInterface {
    * the sets of all elements that are in either `s` or `t`.
    */
   def union(s: FunSet, t: FunSet): FunSet = {
-//    x => s(x) || t(x) // score 9
-    x => contains(s, x) || contains(t, x)
+//    x => s(x) || t(x) // score 9/10
+    x => contains(s, x) || contains(t, x) // score 10/10
   }
 
   /**

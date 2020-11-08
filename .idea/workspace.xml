@@ -1,7 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d3c0f48-48ba-4b7d-bada-07e347ffae6f" name="Default Changelist" comment="" />
+    <list default="true" id="0d3c0f48-48ba-4b7d-bada-07e347ffae6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-funsets-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-funsets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scalafix.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/MOOCSettings.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/StudentTasks.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/buildSettings.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$2473a8182c5fd71f5956$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$2473a8182c5fd71f5956.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$2473a8182c5fd71f5956.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$452093323f2e204e8a46$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$452093323f2e204e8a46.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$452093323f2e204e8a46.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$c08fb3c8b4d20c7d2af1$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$c08fb3c8b4d20c7d2af1.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$c08fb3c8b4d20c7d2af1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$c138b3153001f3158a80$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$c138b3153001f3158a80.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$c138b3153001f3158a80.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$c440d7abe0c89982f3c4$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$c440d7abe0c89982f3c4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$c440d7abe0c89982f3c4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$dbeddec5d19101e9837d$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$dbeddec5d19101e9837d.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$dbeddec5d19101e9837d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/scala-week2-funsets-compile/.sbt-idea-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1e08d56b805f021f4424$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1e08d56b805f021f4424.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1e08d56b805f021f4424.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$28957987965f0f6af91f$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$28957987965f0f6af91f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$28957987965f0f6af91f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3a94c3eb01708bc66713$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3a94c3eb01708bc66713.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3a94c3eb01708bc66713.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$5121c226a8964ced127a$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$5121c226a8964ced127a.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$5121c226a8964ced127a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$55c4ab953632158e1cf9$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$55c4ab953632158e1cf9.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$55c4ab953632158e1cf9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$8cecb0b4691f73237a79$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$8cecb0b4691f73237a79.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$8cecb0b4691f73237a79.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9119b41c96305df13108$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9119b41c96305df13108.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9119b41c96305df13108.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9e68a8750157405af039$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9e68a8750157405af039.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9e68a8750157405af039.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a710d7c5cd1ccc3f9180$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a710d7c5cd1ccc3f9180.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a710d7c5cd1ccc3f9180.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$autoImport$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$autoImport$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-week2-funsets-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-week2-funsets-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week2-funsets-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week2-funsets-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week2-funsets-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week2-funsets-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week2-funsets-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week2-funsets-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week2-funsets-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week2-funsets-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week2-funsets-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week2-funsets-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week2-funsets-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resource_managed/main/sbt/sbt.autoplugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/funsets/FunSetsInterface.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/funsets/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/funsets/FunSetSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/funsets/FunSets$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/funsets/FunSets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/funsets/FunSetsInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/funsets/Main$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/funsets/Main$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/funsets/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/progfun1-funsets-without-resources_2.13-0.1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/progfun1-funsets_2.13-0.1.0-SNAPSHOT-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/submission.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/funsets/FunSetSuite$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/funsets/FunSetSuite$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/funsets/FunSetSuite$$anon$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/funsets/FunSetSuite$$anon$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/funsets/FunSetSuite$$anon$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/funsets/FunSetSuite$$anon$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/funsets/FunSetSuite$$anon$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/funsets/FunSetSuite$$anon$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/funsets/FunSetSuite$TestSets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/funsets/FunSetSuite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierArtifacts/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierClassifiersArtifacts/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierResolutions/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/submit/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBinWithoutResources/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBinWithoutResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBinWithoutResources/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSourcesOnly/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSourcesOnly/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSourcesOnly/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,10 +213,14 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1jffUV1V8Dg8rkP8pqjm50EuZM6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,6 +228,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="JUnit.FunSetSuite.map_test">
